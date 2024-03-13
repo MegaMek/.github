@@ -2,13 +2,13 @@
 
 The MegaMek organization maintains a series of programs that strive to implement the published rules for the tabletop BattleTech game published by Catalyst Game Lab as faithfully as possible. These programs are designed to be accessible across various operating systems and hardware configurations.
 
-## [MegaMek](https://github.com/MegaMek)
+## [MegaMek](https://github.com/MegaMek/megamek)
 MegaMek is an open-source implementation of the BattleTech board game, enabling players to engage in tactical battles with various unit types including mechs, vehicles, and aerospace units. It recreates the rules from the Total Warfare manual, with additions from Tactical Operations and Strategic Operations. The game supports single-player and multiplayer modes, and allows the creation of custom units, maps, and scenarios.
 
-## [MegaMeklab](https://github.com/MegaMeklab)
+## [MegaMeklab](https://github.com/MegaMek/megameklab)
 MegaMekLab is a tool used alongside MegaMek for designing and customizing mechs and other combat units. It offers an in-depth customization interface that adheres to the BattleTech game rules, enabling players to modify their units' weaponry, armor, and equipment specifications.
 
-## [MekHQ](https://github.com/MekHQ)
+## [MekHQ](https://github.com/MegaMek/mekhq)
 MekHQ is a campaign management tool that provides an immersive experience in managing a BattleTech mercenary unit. It integrates with MegaMek for battles and MegaMekLab for unit customization, covering personnel, finances, and logistics.
 
 ## Development and Community
