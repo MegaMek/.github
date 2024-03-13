@@ -1,4 +1,3 @@
-# .github
 # MegaMek Project Summary
 
 The MegaMek organization maintains a series of programs that strive to implement the published rules for the tabletop BattleTech game published by Catalyst Game Lab as faithfully as possible. These programs are designed to be accessible across various operating systems and hardware configurations.
