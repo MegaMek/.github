@@ -7,15 +7,21 @@ MegaMek is an open-source implementation of the BattleTech board game, enabling 
 
 [MegaMek Issues](https://github.com/MegaMek/megamek/issues)
 
+[MegaMek Pull Requests](https://github.com/MegaMek/megamek/pulls)
+
 ## [MegaMeklab](https://github.com/MegaMek/megameklab)
 MegaMekLab is a tool used alongside MegaMek for designing and customizing mechs and other combat units. It offers an in-depth customization interface that adheres to the BattleTech game rules, enabling players to modify their units' weaponry, armor, and equipment specifications.
 
 [MegaMekLab Issues](https://github.com/MegaMek/megameklab/issues)
 
+[MegaMekLab Pull Requests](https://github.com/MegaMek/megameklab/pulls)
+
 ## [MekHQ](https://github.com/MegaMek/mekhq)
 MekHQ is a campaign management tool that provides an immersive experience in managing a BattleTech mercenary unit. It integrates with MegaMek for battles and MegaMekLab for unit customization, covering personnel, finances, and logistics.
 
 [MekHQ Issues](https://github.com/MegaMek/mekhq/issues)
+
+[MekHQ Pull Requests](https://github.com/MegaMek/mekhq/pulls)
 
 ## Development and Community
 The MegaMek suite is developed in Java and is supported by a robust community of developers and players. We are an open-source project, so anyone is welcome to help. Consider what you can offer, and make sure you join our [Discord](https://discord.gg/XM54YH9396) for easy communication and collaboration. Here’s how you can contribute:
