@@ -2,6 +2,9 @@
 
 The MegaMek organization maintains a series of programs that strive to implement the published rules for the tabletop BattleTech game published by Catalyst Game Lab as faithfully as possible. These programs are designed to be accessible across various operating systems and hardware configurations. These programs REQUIRE Java 11 or 17 to run. See [this post for install directions.](https://github.com/MegaMek/megamek/wiki/Updating-to-Adoptium)
 
+Our wiki while small does have some answers for common questions. 
+[MegaMek Wiki](https://github.com/MegaMek/megamek/wiki)
+
 ## [MegaMek](https://github.com/MegaMek/megamek)
 MegaMek is an open-source implementation of the BattleTech board game, enabling players to engage in tactical battles with various unit types including mechs, vehicles, and aerospace units. It recreates the rules from the Total Warfare manual, with additions from Tactical Operations and Strategic Operations. The game supports single-player and multiplayer modes, and allows the creation of custom units, maps, and scenarios.
 
