@@ -1,6 +1,6 @@
 # MegaMek Project Summary
 
-The MegaMek organization maintains a series of programs that strive to implement the published rules for the tabletop BattleTech game published by Catalyst Game Lab as faithfully as possible. These programs are designed to be accessible across various operating systems and hardware configurations. These programs REQUIRE Java 11 or 17 to run. See [this post for install directions.](https://github.com/MegaMek/megamek/wiki/Updating-to-Adoptium)
+The MegaMek organization maintains a series of programs that strive to implement the published rules for the tabletop BattleTech game published by Catalyst Game Lab as faithfully as possible. These programs are designed to be accessible across various operating systems and hardware configurations. These programs REQUIRE a minimum of Java 17 to run. See [this post for install directions.](https://github.com/MegaMek/megamek/wiki/Updating-to-Adoptium-Eclipse-Temurin-Open-Source-Java)
 
 ## MegaMek Wiki
 ### [Our wiki while small does have some answers for common questions.](https://github.com/MegaMek/megamek/wiki)
