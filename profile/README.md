@@ -48,7 +48,7 @@ The MegaMek suite is developed in Java and is supported by a robust community of
 
 ## Status and Support
 
-Find the latest releases, documentation, and support for MegaMek, MegaMekLab, and MekHQ on their GitHub pages. These projects are licensed under GPLv2 and GPLv3, ensuring free and open access to the community.
+Find the latest releases, documentation, and support for MegaMek, MegaMekLab, and MekHQ on their GitHub pages.
 
 ## License
 
