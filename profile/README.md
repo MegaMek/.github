@@ -32,6 +32,14 @@ MekHQ is a campaign management tool that provides an immersive experience in man
 
 [MekHQ Pull Requests](https://github.com/MegaMek/mekhq/pulls)
 
+## [MegaMek Data Repository](https://github.com/MegaMek/mm-data)
+
+This is the MegaMek Data Repository. It holds all data used by the suite of MegaMek programs. Unit files, maps, images, etc are all here and normalized.
+
+[Data Issues](https://github.com/MegaMek/mm-data/issues)
+
+[Data Pull Requests](https://github.com/MegaMek/mm-data/pulls)
+
 ## Development and Community
 
 The MegaMek suite is developed in Java and is supported by a robust community of developers and players. We are an open-source project, so anyone is welcome to help. Consider what you can offer, and make sure you join our [Discord](https://discord.gg/XM54YH9396) for easy communication and collaboration. Here’s how you can contribute:
