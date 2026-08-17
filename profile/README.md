@@ -64,7 +64,7 @@ MegaMek programs are distributed under the GNU General Public License. See the [
 
 ## AI Assisted Code in MegaMek
 
-The project uses AI-assisted coding tools, but only by established developers who understand the codebase. All AI-assisted code is clearly labeled, rigorously reviewed, and extensively tested before merging. See [our full guidelines](https://github.com/MegaMek/megamek/wiki/AI%E2%80%90Assisted-Code-in-MegaMek) for details.
+The project uses AI-assisted coding tools, but only by established developers who understand the codebase. All AI-assisted code is clearly labeled, rigorously reviewed, and extensively tested before merging. See [our full guidelines](https://github.com/MegaMek/megamek/wiki/Guidelines-for-Developer%E2%80%90Led-AI-Tool-Usage-in-MegaMek) for details.
 
 
 ## Our Online Presence
